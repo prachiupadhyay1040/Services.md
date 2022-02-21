@@ -1,7 +1,7 @@
 
 | Attribute             | Sub-attribute                               | Zomato                       | Water Purifier Service       |
 | --------------------- | ------------------------------------------- | ---------------------------- | ---------------------------- |
-|                       |                                             | Achieved Rating/Total Rating | Achieved Rating/Total Rating |
+|                       |                                             |**Achieved Rating/Total Rating** | **Achieved Rating/Total Rating** |
 | Professionalism       | Well uniform                                | 1/1                          | 0/1                          |
 |                       | Positive Attitude                           | 1/1                          | 1/1                          |
 |                       | Good Listening Skill                        | 1/1                          | 0/1                          |
