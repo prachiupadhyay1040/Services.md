@@ -5,7 +5,7 @@
 |                       |                                          |**Achieved Rating/Total Rating** | **Achieved Rating/Total Rating** |
 |Communication Behaviour|straightforward talking style                |  1/1                            |   0/1                           |
 |                       |Avoid interrupting (not concentrate on what someone’s saying)|   1/1           |   0/1                           |
-|                       |Smooth voice tone                             |     1/1                       |     0/1                         |
+|                       |Smooth voice tone  (voice is smooth or harsh)|     1/1                       |     0/1                         |
 |                       |Facial expression is good (he is nervous or not)|   0/1                 |            1/1                  |
 |                       |Maintaining eye contact                         |   0/1                  |           1/1                   |
 |                       |Listen Carefully                               |     1/1                        |     1/1                         |
